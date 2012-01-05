@@ -6,7 +6,7 @@
 # catalog-version 0.11
 Name:		texlive-uml
 Version:	0.11
-Release:	1
+Release:	2
 Summary:	UML diagrams in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/uml
