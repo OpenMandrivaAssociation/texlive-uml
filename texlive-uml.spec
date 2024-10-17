@@ -3,7 +3,7 @@ Version:	17476
 Release:	2
 Summary:	UML diagrams in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/uml
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/uml
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uml.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uml.doc.r%{version}.tar.xz
